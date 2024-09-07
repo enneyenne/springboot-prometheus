@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+*.DS_Store
+**/.DS_Store
+builds/
+.builds/
+**/.builds
+**/builds
+builds/*
+.vscode
+.git
